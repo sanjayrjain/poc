@@ -2,11 +2,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.eb.qamobilecart</groupId>
+    <groupId>com.qacar</groupId>
     <artifactId>ecom-qa-mobileecartsuite</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>eb-mobileCart</name>
+    <name>eb-Car</name>
     <url>http://maven.apache.org</url>
 
     <properties>
