@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	
-	<test name = "MobileSanity">
+	<test name = CarSanity">
 	
 		<classes>
 			
