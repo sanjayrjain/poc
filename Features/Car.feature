@@ -1,5 +1,5 @@
-@EBCartFunctionality
-Feature: cart
+@CarFunctionality
+Feature: car
 
 Scenario: To verify display of Shopping cart page.
 Given Guest/Registered user is in home page  
