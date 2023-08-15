@@ -1,1 +1,1 @@
-java -jar eb-smokesuite.jar >> test.log
+java -jar suite.jar >> test.log
