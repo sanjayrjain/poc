@@ -30,7 +30,7 @@ import cucumber.api.java.en.When;
 public class CartStepDefinition extends  ExtentReportListeners {
 
 	static  WebDriver driver;		
-	String url="https://stg03.ecom.com/acc-login";
+	String url="https://stgecom.com/acc-login";
 	public String prodName;
 	
 	String browser="browserstack";	
